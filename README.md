@@ -25,7 +25,7 @@
   <li> Measures moisture </li>
   <li> Adaptable to different field types, sizes, and depths </li>
   <li> Graphical User Interface </li>
-  <li> Informs the user how to improve moisture content </li>
+  <li> Informs farmers how to improve the moisture level of their fields </li>
 </ul>
 <h2> 👀 What it Looks Like</h2>
 <p align="center">
