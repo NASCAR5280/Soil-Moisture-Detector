@@ -27,7 +27,13 @@
   <li> Graphical User Interface </li>
   <li> Informs the user how to improve moisture content </li>
 </ul>
-<!-- paste in image of user interface:     <img src="" width = "300">     -->
+<h2> 👀 What it Looks Like</h2>
+<p align="center">
+  <!--    Replace these images with ones that have an actual moisture reading    -->
+  <!--    Add in a picture of the actual moisture detector too    -->
+  <img src=https://github.com/user-attachments/assets/8da63659-fd80-479e-afca-f1157916d80c alt="User_Interface Below-Optimal Example" width="250">
+  <img src=https://github.com/user-attachments/assets/d82be8dd-1e28-479e-829d-605e30bc33bb alt="User_Interface Above-Optimal Example" width="256">
+</p>
 <h2> ⬇️ Installation </h2>
 <ol>
   <li>  </li>
