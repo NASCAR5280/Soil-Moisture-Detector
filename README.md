@@ -7,7 +7,7 @@
 </p>
 <h5 align="center"> Co-Developed By: </h5>
 <h3 align="center"> Bryan Crane & Mason Napoleon </h3>
-<h2> 💧 Problems this Software Solves 💧 </h2>
+<h2> 💧 Problems this Software Solves </h2>
 <ul>
   <li> Water Waste </li>
   <li> Water Contamination </li>
