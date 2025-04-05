@@ -38,9 +38,6 @@
 <ol>
   <li>  </li>
   <li>  </li>
-  <li><strong> Installing Customtkinter </strong></li> <br>
-    <p>
-      Go to the terminal and type <code>py -m pip install customtkinter</code>
-    </p>
+  <li> Go to the terminal and enter <code>py -m pip install customtkinter</code> </li>
   <li>  </li>
 </ol>
